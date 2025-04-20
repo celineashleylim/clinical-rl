@@ -4,7 +4,7 @@ This repository explores the application of offline reinforcement learning (RL) 
 
 ## Objective
 
-To develop RL-based agents capable of recommending safe and effective treatment strategies—specifically, fluid boluses and vasopressors—based on vital signs and other clinical indicators, aiming to improve outcomes in hypotensive patients.
+To develop RL-based agents capable of recommending safe and effective treatment strategies, specifically fluid boluses and vasopressors—based on vital signs and other clinical indicators, aiming to improve outcomes in hypotensive patients.
 
 ## Repository Structure
 
